@@ -1,0 +1,84 @@
+/*
+*
+{
+    font-size: 50px;
+    color: hotpink;
+}*/
+/*
+h1 {
+    background-color: blueviolet;
+}
+
+h2 {
+    font-size: 48px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    text-align: center;
+}
+
+*/
+/*
+h1,h2,h3,h4,h5,h6 {
+    color: red;
+    background-color: black;
+}
+
+h1 {
+    font-size: 72px;
+}
+*/
+/*
+p.parrafo1 {
+    color: blue;
+    font-size: 24px;
+    background-color: yellow;
+}
+.parrafo2 {
+    color: green;
+    font-size: 36px;
+    background-color: orange;
+}
+
+#parrafo3 {
+    color: white;
+    font-size: 48px;
+    background-color: purple;
+}
+
+*/
+/*
+
+
+p a {
+    color: red;
+    font-size: 24px;
+    background-color: yellow;
+}
+*/
+/*
+
+h1 > a{
+    color: red;
+    font-size: 24px;
+    background-color: yellow;
+}
+
+p > a {
+    color: blue;
+    font-size: 24px;
+    background-color: yellow;
+}
+*/
+/*
+h2 + h3 {
+    color: red;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+*/
+[class]{
+    color: red;
+    font-size: 24px;
+    background-color: yellow;
+}
