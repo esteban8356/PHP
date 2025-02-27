@@ -1,0 +1,33 @@
+/*
+body
+{
+    font-size: 24px;
+}
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 2em;
+}
+*/
+/*body
+{
+    font-size: 100px;
+}
+h1{
+    font-size: 1in;
+}
+h2{
+    font-size: 10cm;
+}
+*/
+
+div{
+    width: 50%;
+    height: 40%;
+}
+
+p{
+    font-size: 50%;
+}
